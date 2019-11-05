@@ -1,8 +1,10 @@
 # Usage:
 # python val2dot.py <Rmaps> <Valouev alignment results>
 
-rmapfile = "ecoli-2000.valouev"
-valouevfile="all-pairs-s21-7.txt"
+import sys
+
+rmapfile = sys.argv[1]
+valouevfile=sys.argv[2]
 
 id2name=dict()
 name2id=dict()
