@@ -1,6 +1,6 @@
 # Note by Leena Salmela
 
-This git repo includes a modified version of the overlap computation by Valouev et al. The modified version takes as input a set of Rmap pairs and computes overlaps only for those pairs.
+This git repo includes a modified version of the overlap computation by Valouev et al. The modified version (ovlp2) takes as input a set of Rmap pairs and computes overlaps only for those pairs.
 
 # Notes by Martin Muggli
 
