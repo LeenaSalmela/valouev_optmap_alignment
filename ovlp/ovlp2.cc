@@ -187,8 +187,8 @@ int main(int argc, char *argv[])
 	  // //cout<<" p_v: "<<for_p_value;
 	  // cout<<endl;
 
-	  double score_thresh = 25;// 21; // originally 25
-	  double t_score_thresh = 8;//7; // originally 8
+	  double score_thresh = 21; // originally 25
+	  double t_score_thresh = 7; // originally 8
 	  double t_mult = 0;
 
 
